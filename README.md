@@ -1,2 +1,4 @@
-# jshint-jscs-rule-files
-Rule files for JSHint and JSCS
+# Gulp-tutorial-2-JSHint-JSCS
+Tutorial series for learning Gulp
+
+[Tutorial Link](http://welllin.net/)
