@@ -1,5 +1,5 @@
 (function(){
   'use strict'
 
-  alert('howdy!');
+  console.log('howdy');
 })();
