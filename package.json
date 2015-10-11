@@ -1,0 +1,24 @@
+{
+  "name": "jshint-jscs",
+  "version": "1.0.0",
+  "description": "Tutorial series for learning Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welllin/jshint-jscs-rule-files.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/welllin/jshint-jscs-rule-files/issues"
+  },
+  "homepage": "https://github.com/welllin/jshint-jscs-rule-files#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jscs": "^3.0.1",
+    "gulp-jshint": "^1.11.2"
+  }
+}
