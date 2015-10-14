@@ -17,8 +17,10 @@
   },
   "homepage": "https://github.com/welllin/jshint-jscs-rule-files#readme",
   "devDependencies": {
+    "del": "^2.0.2",
     "gulp": "^3.9.0",
     "gulp-jscs": "^3.0.1",
-    "gulp-jshint": "^1.11.2"
+    "gulp-jshint": "^1.11.2",
+    "gulp-sass": "^2.0.4"
   }
 }
